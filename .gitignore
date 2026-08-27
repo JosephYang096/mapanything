@@ -1,0 +1,11 @@
+*.png
+*.mp4
+*.json
+*.ply
+*.avi
+*.exr
+*.npy
+*.txt
+/datasets/
+/dataset_wai/
+/map-anything-main/
