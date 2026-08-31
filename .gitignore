@@ -9,3 +9,5 @@
 /datasets/
 /dataset_wai/
 /map-anything-main/
+/.venv/
+*.log
